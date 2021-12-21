@@ -1,10 +1,10 @@
-###NFA to DFA Algorithm (C++)
+### NFA to DFA Algorithm (C++)
 
 The following program converts an NFA (passed in as an input file), to a DFA.
 
 **Please note that the DFA States begin at 0 as opposed to 1.**
 
-###Running the Program
+### Running the Program
 - Open up the Makefile.
 - Below the "test" line, type in the name of your input file:
 
